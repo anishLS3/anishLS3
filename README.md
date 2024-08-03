@@ -12,7 +12,9 @@
 - 💬 Ask me about **React and used Frameworks...**
 
 - 📫 How to reach me **anishls03102004@gmail.com**
-
+  
+-  📄 Know about my experiences [Resume](https://drive.google.com/file/d/15GXeve7VA_iQYne9OTzEC8-SjpxW1C64/view?usp=sharing)
+  
 - ⚡ Fun fact **I think I am different than others think me..!**
 
 <h3 align="left">Connect with me:</h3>
